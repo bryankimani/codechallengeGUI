@@ -7,6 +7,10 @@ PyQt5 is described as(here: https://pypi.org/project/PyQt5/):
 
 I was inspired to create the GUI by <a href="https://twitter.com/m_herrmann">@m_herrmann</a> article here: https://build-system.fman.io/pyqt5-tutorial
 
+Currently, this is what I have as shown by the screenshot below.
+
+![Alt text](/screenshot.png?raw=true "Optional Title")
+
 ### To-dos
 1. Link the GUI to a database/API
 2. Create Login/Register functionality
