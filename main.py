@@ -8,7 +8,7 @@ class MainApp(QMainWindow):
         super().__init__()
 
         self.initUI()
-        self.setWindowTitle("Welcome to pybites")
+        self.setWindowTitle("Welcome to CodeChallenges")
 
     def initUI(self):
         self.createMenu()
