@@ -11,6 +11,8 @@ Currently, this is what I have as shown by the screenshot below.
 
 ![Alt text](/screenshot.png?raw=true "Optional Title")
 
+Only two buttons with functionality(on click) currently. Dashboard Webview and Calculator Button
+
 ### To-dos
 1. Link the GUI to a database/API
 2. Create Login/Register functionality
